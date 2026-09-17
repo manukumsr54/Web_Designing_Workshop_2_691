@@ -1,4 +1,4 @@
-# Web_Designing_Workshop_2_691
+# Web_Designing_Workshop_2_691-
 # ⚛️ JavaScript, React & Bootstrap — College Lectures
 
 This repository contains my **college lecture codes, notes, examples, and practice programs** for learning modern Web Development.
